@@ -1,4 +1,4 @@
-ani = int(input('Numarul de ani: '))
+ani = int(input('Nr. de ani: '))
 l = ani * 12
 z = ani * 365
 o = z * 24
